@@ -1,6 +1,6 @@
 # 287: Find the Duplicate Number
 
-> ![NOTE]
+> [!NOTE]
 > This is a bonus question. This is not included on the Leetcode 75 study track.
 
 Given an array of integers nums containing `n + 1` integers where each integer is in the range `[1, n]` inclusive. There is only one repeated number in `nums`, return this repeated number.
